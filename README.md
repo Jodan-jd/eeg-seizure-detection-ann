@@ -55,8 +55,7 @@ eeg-seizure-detection-ann/
 ├── README.md
 ├── docs/
 │   └── project-report.pdf
-
----
+```
 
 
 ## 📄 Project Report
